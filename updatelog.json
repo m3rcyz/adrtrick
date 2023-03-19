@@ -1,0 +1,9 @@
+{
+  "latestVersion": "1.1",
+  "latestVersionCode": 2,
+  "url": "https://github.com/m3rcyz/adrtrick/releases",
+  "releaseNotes": [
+    "-Bug fixes",
+    "-Added support for FFMax"	
+  ]
+}

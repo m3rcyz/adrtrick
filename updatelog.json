@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.1.2",
-  "latestVersionCode": 4,
+  "latestVersion": "1.1.2-patch",
+  "latestVersionCode": 5,
   "url": "https://github.com/m3rcyz/adrtrick/releases",
   "releaseNotes": [
     "-Bug fixes",
